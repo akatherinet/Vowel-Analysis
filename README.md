@@ -1,4 +1,4 @@
-Speech Phoneme Analysis and Classification Project
+**Speech Phoneme Analysis and Classification Project**
 
 This project builds a simple speech classifier for vowel-based phonemes and analyzes the results.  
 
